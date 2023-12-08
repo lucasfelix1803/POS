@@ -1,0 +1,20 @@
+body {
+    background: rgb(255,255,255);
+    background: linear-gradient(0deg, rgba(255,255,255,1) 0%, rgba(179,179,179,1) 50%);
+}
+
+.border-imagem{
+    border: 2px solid #000000;
+    border-radius: 100%;
+    object-fit: cover;
+    width: 150px;
+    height: 150px;
+}
+
+.bg-cinza{
+    background-color: rgba(255, 255, 255, 0.84)
+}
+.card{
+
+    padding: 2%;
+}
